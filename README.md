@@ -26,9 +26,9 @@ public Text evaluate(String str, String str1, String str2){
 ```
 * Then export the Java program into JAR file and copy the JAR file location
 
-** Open the Hive terminal 
+* Open the Hive terminal 
 * Add the JAR file into HIVE using 
-** Add JAR 'Location of Jar file'/Jarfilename
+* Add JAR 'Location of Jar file'/Jarfilename
 
 * Create Table in Hive 
 ```
